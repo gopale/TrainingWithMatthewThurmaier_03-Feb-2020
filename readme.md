@@ -2,6 +2,9 @@
 
 The contents in these folders contain solution files for walkthroughs covered each day.
 
+**Note**: 
+The projects in Day-1 thru Day-3 are built with AnypointStudio ver 7.4.1. Whereas the projects in Day-4 and Day-5 are built using newer version of Studio ver 7.4.2
+
 <BR>
 
 ## How to import **Mule Application** solution into Studio?
